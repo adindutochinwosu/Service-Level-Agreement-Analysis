@@ -1,4 +1,4 @@
-## SERVICE LEVEL AGREEMENT (SLA)ANALYSIS
+## SERVICE LEVEL AGREEMENT (SLA) ANALYSIS
 This project focuses on analyzing Helpdesk Tickets in relation to various Service Level Agreements (SLAs).
 
 To conduct this analysis, I used Microsoft Excel to examine and identify whether SLAs have been met or breached. The project evaluates Helpdesk Tickets based on different priority levels and aims to answer key business questions that support informed decision-making.
