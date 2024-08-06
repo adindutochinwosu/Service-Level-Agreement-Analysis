@@ -1,9 +1,9 @@
-## Service-Level-Agreement-Analysis
+## SERVICE LEVEL AGREEMENT ANALYSIS
 This project focuses on analyzing Helpdesk Tickets in relation to various Service Level Agreements (SLAs).
 
 To conduct this analysis, I used Microsoft Excel to examine and identify whether SLAs have been met or breached. The project evaluates Helpdesk Tickets based on different priority levels and aims to answer key business questions that support informed decision-making.
 
-### BUSINESS QUESTIONS
+## BUSINESS QUESTIONS
 #### Question 1: Identify the following using the basic Excel formulas (such as IF, COUNTIFS):
 - Total Tickets per Team
 - Total Tickets per Priority
@@ -74,16 +74,16 @@ Create a separate worksheet called “Summary” within the same Excel file to d
 - Select Ticket Status Update
 - SLA Due Date
 - Breached SLA
-## Tools Used
+## TOOLS USED
 - Microsoft Excel
 - Power Query
-## Methodology
+## METHODOLOGY
 - Data Collection
 - Data Preprocessing
 - Data Cleaning
 - Data Visualization
 - Data Reporting
-## Findings
+## FINDINGS
 Findings categorized by each section:
 
 #### Total Tickets per Team:
@@ -143,3 +143,12 @@ Findings categorized by each section:
  - The high number of Normal priority tickets suggests that while many issues are important, they are not urgent.
  - The predominance of tickets being reported through the web indicates a need to ensure the web reporting system is robust and user-friendly.
  - Since most tickets are closed, the teams are managing to resolve issues effectively, though the 64 open tickets need attention to prevent backlog.
+
+## RECOMMENDATION
+ - Drive volume to other sources to improve ticket quality.
+ - Hold regular meetings to discuss tickets that are close to breaching.
+ - Build or improve a self-service portal with a knowledge base to allow users to resolve their own issues, reducing incoming ticket volume to the service desk.
+ - Leverage AI capabilities to speed up ticket processing and resolution.
+ - Automate manual tasks wherever possible.
+ - Revisit and update your SLAs to prioritize expectation management for your end users.
+ - Organize the ticket categorization scheme for proper routing and reporting.
