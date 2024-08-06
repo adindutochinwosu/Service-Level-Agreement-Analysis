@@ -118,29 +118,29 @@ Findings categorized by each section:
 - Open/Answered: 31 tickets
 
 ### Summary:
-#### Team Workload:
+#### 1. Team Workload:
+- The JDE Support Team has the highest number of tickets (249), followed by the SAP Support Team (191).
+- The BPM - ProcessMaker Support Team and the Hardware Team have the fewest tickets, with 2 and 3 tickets respectively.
 
-The JDE Support Team has the highest number of tickets (249), followed by the SAP Support Team (191).
-The BPM - ProcessMaker Support Team and the Hardware Team have the fewest tickets, with 2 and 3 tickets respectively.
-Ticket Priority:
+#### 2. Ticket Priority:
+- Most tickets are of Normal priority (341 tickets), followed by High priority (115 tickets).
+- The Low priority tickets are the least common (41 tickets).
 
-Most tickets are of Normal priority (341 tickets), followed by High priority (115 tickets).
-The Low priority tickets are the least common (41 tickets).
-Ticket Type:
+#### 3. Ticket Type:
+- The majority of the tickets are categorized as Incident / problem (374 tickets).
+- A significant number of tickets are Requests (174 tickets).
+- Only 2 tickets have an unspecified type.
 
-The majority of the tickets are categorized as Incident / problem (374 tickets).
-A significant number of tickets are Requests (174 tickets).
-Only 2 tickets have an unspecified type.
-Ticket Source:
+#### 4. Ticket Source:
+- The majority of the tickets were reported via Web (492 tickets), while only 31 tickets were reported through Email.
 
-The majority of the tickets were reported via Web (492 tickets), while only 31 tickets were reported through Email.
-Ticket Status:
+#### 5. Ticket Status:
+- The majority of the tickets are Closed (472 tickets).
+- There are 64 Open tickets and 14 Resolved tickets.
+- 31 tickets are marked as Open/Answered.
 
-The majority of the tickets are Closed (472 tickets).
-There are 64 Open tickets and 14 Resolved tickets.
-31 tickets are marked as Open/Answered.
-Insights:
-The JDE Support Team and the SAP Support Team might need more resources or improved processes to handle their high volume of tickets.
-The high number of Normal priority tickets suggests that while many issues are important, they are not urgent.
-The predominance of tickets being reported through the web indicates a need to ensure the web reporting system is robust and user-friendly.
-Since most tickets are closed, the teams are managing to resolve issues effectively, though the 64 open tickets need attention to prevent backlog.
+### Insights:
+ - The JDE Support Team and the SAP Support Team might need more resources or improved processes to handle their high volume of tickets.
+ - The high number of Normal priority tickets suggests that while many issues are important, they are not urgent.
+ - The predominance of tickets being reported through the web indicates a need to ensure the web reporting system is robust and user-friendly.
+ - Since most tickets are closed, the teams are managing to resolve issues effectively, though the 64 open tickets need attention to prevent backlog.
