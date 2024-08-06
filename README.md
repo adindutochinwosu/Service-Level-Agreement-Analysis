@@ -19,7 +19,7 @@ This project analyses Helpdesk Tickets based on different priority levels (SLAs)
 
 Create a separate worksheet called “Summary” within the same Excel file to display the following output. 
 
-Question 2: Compute the SLA of each ticket based on the following criterion:
+#### Question 2: Compute the SLA of each ticket based on the following criterion:
 - In the tickets list sheet containing the cleansed data of tickets, add a new column “SLA Due Date”.
 - Compute SLA for tickets with “Incident/ Problem” types only. For tickets which have “Request” types, print “No SLA for Request” in the cell.
 - Follow the SLA below
@@ -41,7 +41,7 @@ Question 2: Compute the SLA of each ticket based on the following criterion:
     - SLA Due date
     - Breached SLA?
 
-Question 3: I’d like to have a representation of the data using Pivot in Excel for easier visualization and analysis of data. Based on the cleansed file, can you please identify the following using Pivot table and graphs? 
+#### Question 3: I’d like to have a representation of the data using Pivot in Excel for easier visualization and analysis of data. Based on the cleansed file, can you please identify the following using Pivot table and graphs? 
 - Add a new worksheet for Pivot Table and present the following:
   - Total Tickets per Team
   - Total Tickets per Priority
@@ -85,3 +85,62 @@ Question 3: I’d like to have a representation of the data using Pivot in Excel
 - Data Visualization
 - Data Reporting
 ## Findings
+Findings categorized by each section:
+
+#### Total Tickets per Team:
+- AWS Team: 16 tickets
+- BPM - ProcessMaker Support Team: 2 tickets
+- Hardware Team: 3 tickets
+- Help Desk Team: 35 tickets
+- JDE Support Team: 249 tickets
+- Network Team: 38 tickets
+- Salesforce Team: 8 tickets
+- SAP Support Team: 191 tickets
+- Workday Team: 8 tickets
+
+#### Total Tickets per Priority:
+- Emergency: 53 tickets
+- High: 115 tickets
+- Normal: 341 tickets
+- Low: 41 tickets
+#### Total Tickets per Type:
+- Incident / problem: 374 tickets
+- Not Specified: 2 tickets
+- Request: 174 tickets
+#### Total Tickets per Source:
+- Email: 31 tickets
+- Web: 492 tickets
+#### Total Tickets per Status:
+- Closed: 472 tickets
+- Open: 64 tickets
+- Resolved: 14 tickets
+#### Total Open/Answered Tickets:
+- Open/Answered: 31 tickets
+
+### Summary:
+#### Team Workload:
+
+The JDE Support Team has the highest number of tickets (249), followed by the SAP Support Team (191).
+The BPM - ProcessMaker Support Team and the Hardware Team have the fewest tickets, with 2 and 3 tickets respectively.
+Ticket Priority:
+
+Most tickets are of Normal priority (341 tickets), followed by High priority (115 tickets).
+The Low priority tickets are the least common (41 tickets).
+Ticket Type:
+
+The majority of the tickets are categorized as Incident / problem (374 tickets).
+A significant number of tickets are Requests (174 tickets).
+Only 2 tickets have an unspecified type.
+Ticket Source:
+
+The majority of the tickets were reported via Web (492 tickets), while only 31 tickets were reported through Email.
+Ticket Status:
+
+The majority of the tickets are Closed (472 tickets).
+There are 64 Open tickets and 14 Resolved tickets.
+31 tickets are marked as Open/Answered.
+Insights:
+The JDE Support Team and the SAP Support Team might need more resources or improved processes to handle their high volume of tickets.
+The high number of Normal priority tickets suggests that while many issues are important, they are not urgent.
+The predominance of tickets being reported through the web indicates a need to ensure the web reporting system is robust and user-friendly.
+Since most tickets are closed, the teams are managing to resolve issues effectively, though the 64 open tickets need attention to prevent backlog.
