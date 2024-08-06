@@ -5,7 +5,7 @@ For this project, I utilized Microsoft Excel to analyse and identify SLAs that h
 This project analyses Helpdesk Tickets based on different priority levels (SLAs). This was achieved by answering the following business questions that would aid in making informed business decisions.
 
 ### BUSINESS QUESTIONS
-#Question 1: Identify the following using the basic Excel formulas (such as IF, COUNTIFS):
+Question 1: Identify the following using the basic Excel formulas (such as IF, COUNTIFS):
 - Total Tickets per Team
 - Total Tickets per Priority
 - Total Tickets per Type
@@ -16,6 +16,7 @@ This project analyses Helpdesk Tickets based on different priority levels (SLAs)
 - Total Tickets from “Email”
 - Total Tickets from “Web”
 - Total Tickets from “Phone”
+
 Create a separate worksheet called “Summary” within the same Excel file to display the following output. 
 
 Question 2: Compute the SLA of each ticket based on the following criterion:
@@ -26,7 +27,7 @@ Question 2: Compute the SLA of each ticket based on the following criterion:
   - High Priority - 3 business days
   - Normal - 5 business days
   - Low - 10 business days
-- compute the due date for each ticket excluding weekends. 
+- Compute the due date for each ticket excluding weekends. 
 - Add another column called “Breached SLA?”.
   - Print “Yes” if SLA Due date is greater than the Last Updated Date. Else, print “No”.
 - Add a new worksheet called “Ticket Viewer”.
@@ -52,3 +53,34 @@ Question 3: I’d like to have a representation of the data using Pivot in Excel
   - Type
   - Department
   - Breached SLA
+### Variables
+- Ticket Number
+- Date Created
+- Subject
+- From
+- From Email
+- Priority
+- Department
+- Type
+- Source
+- Current Status
+- Last Updated
+- Due Date
+- Overdue
+- Answered
+- Agent Assigned
+- Team Assigned
+- Category
+- Issue Origin
+- Select Ticket Status Update
+- SLA Due Date
+- Breached SLA
+## Tools Used
+- Microsoft Excel
+- Power Query
+## Methodology
+- Data Collection
+- Data Preprocessing
+- Data Cleaning
+- Data Visualization
+- Data Reporting
