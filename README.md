@@ -43,13 +43,13 @@ Question 2: I need you to compute the SLA of each ticket based on the following 
 
 Question 3: Now, I’d like to have a representation of the data using Pivot in Excel for easier visualization and analysis of data. Based on the cleansed file, can you please identify the following using Pivot table and graphs? 
 - Add a new worksheet for Pivot Table and present the following:
- - Total Tickets per Team
- - Total Tickets per Priority
+  - Total Tickets per Team
+  - Total Tickets per Priority
 - Add a new worksheet for Pivot Chart and present the following:
- - Total Tickets per Status
+  - Total Tickets per Status
 - In the sheet with Pivot Chart, add slicers for the following:
- - Priority
- - Source
- - Type
- - Department
- - Breached SLA
+  - Priority
+  - Source
+  - Type
+  - Department
+  - Breached SLA
