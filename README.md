@@ -5,7 +5,7 @@ For this project, I utilized Microsoft Excel to analyse and identify SLAs that h
 This project analyses Helpdesk Tickets based on different priority levels (SLAs). This was achieved by answering the following business questions that would aid in making informed business decisions.
 
 ### BUSINESS QUESTIONS
-Question 1: Identify the following using the basic Excel formulas (such as IF, COUNTIFS):
+#### Question 1: Identify the following using the basic Excel formulas (such as IF, COUNTIFS):
 - Total Tickets per Team
 - Total Tickets per Priority
 - Total Tickets per Type
@@ -84,3 +84,4 @@ Question 3: I’d like to have a representation of the data using Pivot in Excel
 - Data Cleaning
 - Data Visualization
 - Data Reporting
+## Findings
