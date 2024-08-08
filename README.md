@@ -83,6 +83,7 @@ Create a separate worksheet called “Summary” within the same Excel file to d
 - Data Cleaning
 - Data Visualization
 - Data Reporting
+- Presentation
 ## FINDINGS
 Findings categorized by each section:
 
